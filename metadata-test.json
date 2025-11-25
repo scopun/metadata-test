@@ -1,0 +1,7 @@
+{
+  "name": "TestToken",
+  "symbol": "TTKN",
+  "uri": "https://raw.githubusercontent.com/scopun/sdga-metadata/main/sdga.json",
+  "seller_fee_basis_points": 0,
+  "creators": null
+}
