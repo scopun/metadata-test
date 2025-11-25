@@ -2,11 +2,14 @@
   "name": "SPL Token",
   "symbol": "SPLT",
   "description": "My custom SPL token on Solana Devnet.",
-  "image": "https://ipfs.io/ipfs/bafkreifi46q2wv4zacmcl5q4xuwvdklv63pi4jt6pje35j6ixc4x6abrpe", 
-  "attributes": [
-    {
-      "trait_type": "Project",
-      "value": "Test Token"
-    }
-  ]
+  "image": "https://ipfs.io/ipfs/bafkreifi46q2wv4zacmcl5q4xuwvdklv63pi4jt6pje35j6ixc4x6abrpe",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://ipfs.io/ipfs/bafkreifi46q2wv4zacmcl5q4xuwvdklv63pi4jt6pje35j6ixc4x6abrpe",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
 }
